@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Portfolio page: [https://idontusethisanyways.github.io/NursultanNurtayPortfolio/](https://idontusethisanyways.github.io/PortfolioNursultan/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Idontusethisanyways&show_icons=true&theme=radical)
